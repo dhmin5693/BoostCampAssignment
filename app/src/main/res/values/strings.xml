@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BoostCampAssignment</string>
+    <string name="app_title">부스트캠프 사전과제</string>
+
+    <!-- properties -->
+    <string name="properties_url">https://openapi.naver.com/</string>
+    <string name="properties_client_id">CZFDRRUq8m9y7pFsgdgd</string>
+    <string name="properties_client_secret">d8wnkObP0X</string>
+
+    <!-- string -->
+    <string name="str_search">검색</string>
+    <string name="str_movie_title">영화 제목</string>
+    <string name="str_movie_date">연도</string>
+    <string name="str_movie_director">감독</string>
+    <string name="str_movie_actor">배우</string>
+
+    <!-- message -->
+    <string name="msg_unknown_error">알 수 없는 에러가 발생했습니다.</string>
+    <string name="msg_network_error">인터넷 연결을 확인해주세요.</string>
+    <string name="msg_no_result">검색 결과가 없습니다.</string>
+</resources>
